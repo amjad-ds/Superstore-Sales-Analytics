@@ -58,29 +58,27 @@ Interactive features:
 ---
 
 ## 📂 Repository Structure
-
+```
 superstore-analytics/
+├── sql/                         # SQL scripts
+│   ├── 01_database_setup.sql
+│   ├── 02_data_import.sql
+│   ├── 03_rfm_analysis.sql
+│   ├── 04_sales_trends.sql
+│   ├── 05_top_performers_analysis.sql
+│   └── 06_views_and_procedures.sql
 │
-├── sql/ # SQL scripts
-│ ├── 01_database_setup.sql
-│ ├── 02_data_import.sql
-│ ├── 05_rfm_analysis_fixed.sql
-│ ├── 06_sales_trends_simplified.sql
-│ ├── 07_top_performers_analysis.sql
-│ └── 08_views_and_procedures.sql
+├── documentation/               # Documentation & reports
+│   ├── project_presentation.pptx
+│   └── dashboard_screenshots/
 │
-├── documentation/ # Documentation & reports
-│ ├── README.md # This file
-│ ├── project_presentation.pptx
-│ └── dashboard_screenshots/
+├── powerbi/                     # To be added later
+│   └── superstore_dashboard.pbix
 │
-├── powerbi/ # To be added later
-│ └── superstore_dashboard.pbix
-│
-└── python/ (optional) # ML extensions
-├── sales_forecasting.ipynb
-└── churn_prediction.ipynb
-
+└── python/ (optional)           # ML extensions
+    ├── sales_forecasting.ipynb
+    └── churn_prediction.ipynb
+```
 ---
 
 ## 📊 Key Insights (So Far)
