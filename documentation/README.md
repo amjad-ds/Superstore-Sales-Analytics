@@ -24,7 +24,7 @@ Built advanced SQL queries for **business intelligence reporting**:
 
 - **Customer Segmentation (RFM Analysis)**  
   - Recency, Frequency, Monetary scoring  
-  - Tiered segments (Gold, Silver, Bronze)  
+  - Tiered customer segments  
   - Reports: Segment distribution, at-risk customers, champions, regional breakdowns  
 
 - **Sales Trend Analysis**  
@@ -100,4 +100,4 @@ superstore-analytics/
 
 ## 👨‍💻 Author
 **Syed Mohammed Amjad**  
-📧 shaik.amer2000s967@gmail.com
+📧 amjad2003ds@gmail.com
