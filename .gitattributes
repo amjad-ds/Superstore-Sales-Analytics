@@ -1,0 +1,2 @@
+# Force SQL detection
+*.sql linguist-language=SQL
