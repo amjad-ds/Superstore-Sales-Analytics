@@ -3,6 +3,7 @@
 -- File: 03_rfm_analysis.sql
 -- =====================================================
 
+
 -- Step 1: Calculate RFM Metrics for each customer
 CREATE OR REPLACE VIEW customer_rfm_base AS
 SELECT 
